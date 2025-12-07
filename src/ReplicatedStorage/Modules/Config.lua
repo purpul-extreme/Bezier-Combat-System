@@ -1,6 +1,0 @@
-local Config = {
-	PROJECTILE_VELOCITY = 85,
-	PROJECTILE_CREATION_DELAY = 0.25
-}
-
-return Config
